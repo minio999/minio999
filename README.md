@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dominik</h1>
-<h3 align="center">Junior Data Engineer/Data Scientist/Cloud Engineer</h3>
+<h3 align="center"> Data Engineer/Data Scientist/Cloud Engineer</h3>
 
 - 🔭 I’m currently working on **ICR Kaggle Competition**
 
